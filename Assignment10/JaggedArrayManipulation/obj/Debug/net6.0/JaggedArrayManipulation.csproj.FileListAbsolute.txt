@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\bin\Debug\net6.0\JaggedArrayManipulation.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\bin\Debug\net6.0\JaggedArrayManipulation.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\bin\Debug\net6.0\JaggedArrayManipulation.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\bin\Debug\net6.0\JaggedArrayManipulation.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\bin\Debug\net6.0\JaggedArrayManipulation.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\JaggedArrayManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\JaggedArrayManipulation.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\JaggedArrayManipulation.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\JaggedArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\JaggedArrayManipulation.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\refint\JaggedArrayManipulation.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\JaggedArrayManipulation.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\JaggedArrayManipulation.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\13-11-2023\JaggedArrayManipulation\JaggedArrayManipulation\obj\Debug\net6.0\ref\JaggedArrayManipulation.dll
